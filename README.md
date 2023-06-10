@@ -10,6 +10,15 @@
 
 * I made this game for my final college exam last year; it is a genius with dancing. It uses lists and arrays to store which buttons the player pressed and which ones the AI stored with Random.Range(); and checks them both to see if the player got the AI's order right or wrong, if he got it right, one more random number is added to his list, if the player got it wrong, the AI's list and the player's list are reset to store another button order.
 
+# Images Of The Game
+
+![Captura de tela 2023-06-10 165524](https://github.com/Victor-Kanai/Frog-It/assets/120500155/e3a57067-d188-46df-ba63-f14198c01d32)
+![Captura de tela 2023-06-10 165607](https://github.com/Victor-Kanai/Frog-It/assets/120500155/00bd0fa9-cba4-46ef-acf4-173e82365088)
+![Captura de tela 2023-06-10 165645](https://github.com/Victor-Kanai/Frog-It/assets/120500155/59a24a4c-c229-492f-b36c-d30fc90f12dc)
+![Captura de tela 2023-06-10 165718](https://github.com/Victor-Kanai/Frog-It/assets/120500155/4d126e73-a96b-43ba-a73c-aaf19c71ab01)
+![Captura de tela 2023-06-10 165758](https://github.com/Victor-Kanai/Frog-It/assets/120500155/0fc259e8-359d-448e-b987-c3cc3391ffd1)
+
+
 # Watch The Gameplay Trailer
 
 *(This trailer is from a old version of the game)*
