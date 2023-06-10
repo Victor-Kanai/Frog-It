@@ -15,7 +15,3 @@
 *(This trailer is from a old version of the game)*
 
 https://youtu.be/snuV-gyXGr4
-
-# Download The Game
-
-https://victor-kanai.itch.io/frog-it
