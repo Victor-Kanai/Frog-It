@@ -10,8 +10,12 @@
 
 * I made this game for my final college exam last year; it is a genius with dancing. It uses lists and arrays to store which buttons the player pressed and which ones the AI stored with Random.Range(); and checks them both to see if the player got the AI's order right or wrong, if he got it right, one more random number is added to his list, if the player got it wrong, the AI's list and the player's list are reset to store another button order.
 
-# Watch The Gameplay Trailer:
+# Watch The Gameplay Trailer
 
 *(This trailer is from a old version of the game)*
 
 https://youtu.be/snuV-gyXGr4
+
+# Download The Game
+
+https://victor-kanai.itch.io/frog-it
