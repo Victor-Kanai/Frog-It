@@ -21,7 +21,7 @@
 
 # Watch The Gameplay Trailer
 
-*(This trailer is from a old version of the game)*
+*(This trailer is from a older version of the game)*
 
 https://youtu.be/snuV-gyXGr4
 
