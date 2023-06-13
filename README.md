@@ -8,7 +8,7 @@
 
 *English:*
 
-* I made this game for my final college exam last year; it is a genius with dancing. It uses lists and arrays to store which buttons the player pressed and which ones the AI stored with Random.Range(); and checks them both to see if the player got the AI's order right or wrong, if he got it right, one more random number is added to his list, if the player got it wrong, the AI's list and the player's list are reset to store another button order.
+* I made this game for my final college exam last year; it is a simon with dancing. It uses lists and arrays to store which buttons the player pressed and which ones the AI stored with Random.Range(); and checks them both to see if the player got the AI's order right or wrong, if he got it right, one more random number is added to his list, if the player got it wrong, the AI's list and the player's list are reset to store another button order.
 
 # Images Of The Game
 
